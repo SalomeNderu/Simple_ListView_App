@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple_ListView_App</string>
+    <string-array name="services">
+        <item>FULIZA</item>
+        <item>SEND MONEY</item>
+        <item>KCB MPESA</item>
+        <item>CHECK BALANCE</item>
+        <item>M-SHWARI</item>
+
+    </string-array>
+
+</resources>
